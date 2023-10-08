@@ -9,6 +9,8 @@ with tools like `jadx-gui`__.
 
 __ https://github.com/skylot/jadx
 
+Full firmware images can be downloaded at
+http://archive.cweiske.de/binary/#forge-firmware
 
 
 Build a de-odexed .apk
