@@ -10,6 +10,8 @@ with tools like `jadx-gui`__.
 __ https://github.com/skylot/jadx
 
 Full firmware images can be downloaded at
+https://archive.org/details/razer-forge-tv-firmware
+and
 http://archive.cweiske.de/binary/#forge-firmware
 
 
